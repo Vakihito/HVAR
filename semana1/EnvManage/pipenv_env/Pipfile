@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 camelcase = "*"
+pandas = "*"
+plotly = "*"
 
 [dev-packages]
 
