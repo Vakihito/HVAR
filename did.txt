@@ -1,0 +1,2 @@
+ - configuração de ambiente utilizando pipenv por meio de conexão ssh pelo GCP
+ - configuração de ambiente utilizando pynev por meio de conexão ssh pelo GCP
